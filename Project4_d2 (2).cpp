@@ -1,9 +1,4 @@
-     //name:amghar ayoub
-//CSC237_FALL2020
-//DATE: 11/13/2020
-//THE PROJECT:This project involves designing and creating a C++ program that will convert a “pipe-delimited” text file to a file
-//in CSV format. (The vertical bar character, “ | ”, is often called a “pipe” character.For this reason, a text file with
-//vertical bar delimiters is often called a “pipe - delimited” file.)
+  
 #include<iostream>
 #include<fstream>
 #include<string>
